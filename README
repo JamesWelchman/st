@@ -4,6 +4,7 @@ Changes:
    - zsh is default shell
    - st-meta-256color termname
    - dracula color scheme see [https://github.com/dracula/dracula-theme]
+   - Lucida Console is the new font
 
 
 st - simple terminal
